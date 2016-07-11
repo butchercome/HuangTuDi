@@ -5,7 +5,7 @@
     <title>黄土地网站首页</title>
 </head>
 <body>
-<form action="htd/login" method="post">
+<form action="htd/login?" method="post">
     用户名：
     <input type="text" name="userName">
     <br>
