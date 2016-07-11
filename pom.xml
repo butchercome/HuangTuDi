@@ -113,7 +113,7 @@
             <name>local private nexus</name>
             <!--<url>http://repository.jboss.org/nexus/content/groups/public/</url>-->
             <!--<url>http://maven.oschina.net/content/groups/public/</url>-->
-            <url>http://localhost:8081/nexus/content/groups/public/</url>
+            <url>http://localhost:8099/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -126,7 +126,7 @@
         <pluginRepository>
             <id>nexus</id>
             <name>local private nexus</name>
-            <url>http://localhost:8081/nexus/content/groups/public/</url>
+            <url>http://localhost:8099/nexus/content/groups/public/</url>
             <!--<url>http://repository.jboss.org/nexus/content/groups/public/</url>-->
             <!--<url>http://maven.oschina.net/content/groups/public/</url>-->
             <releases>
